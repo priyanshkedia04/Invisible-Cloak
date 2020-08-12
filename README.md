@@ -24,7 +24,7 @@ Invisible Cloak from the Harry Potter series made using Python and OpenCV
 
 ### Executing program
 
-* Take a prferably Light Blue Color Sheet/Blanket as your Cloak or adjust the HSV Values according to your Blanket color..
+* Take a Sheet/Blanket as your Cloak, preferably Light Blue Color or adjust the HSV Values according to your Blanket color. 
 
 * Contoutrs and Color detection is done using OpenCV.
 
